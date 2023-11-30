@@ -1,6 +1,9 @@
 # HEOR_project
 HEOR Project for Atrial Fibrillation patients
 
+![image](https://github.com/mudrap17/HEOR_project/assets/76879120/e30d2e5a-2bf5-4d52-ac34-bec44ae9dd1d)
+
+
 ![image](https://github.com/mudrap17/HEOR_project/assets/76879120/ce2014b1-30b2-4a6e-8aee-5f8c567b66f0)
 
 
